@@ -1,5 +1,4 @@
-# Reinforcement Learning problems and methods
-
+# Reinforcement Learning problems investigation
 ## Projects overview
 In this repository, I'll walk through some of the popular Reinforcement Learning (RL) problems, build the non-RL and RL solutions for each to compare the efficiency and time-consuming. The problems include:
 
