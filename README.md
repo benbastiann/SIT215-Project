@@ -6,5 +6,7 @@ In this repository, I'll approach some of the popular Reinforcement Learning (RL
 - Cart Pole problem (will be solved in (will be solved with "Random Search solution" and "Q-learning" solution)
 - Mountain Car problem (will be solved in 2 different RL methods: "Q-learning" and "TD-learning")
 
+All the testing method and comparison is demonstrated in the JupiterNotebook files
+
 ## My presentation of RL, all the mentioned problems and methods applied explanation (with code and efficiency comparison:
 https://youtu.be/kruxPuKM-DE
